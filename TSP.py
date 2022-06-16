@@ -1,7 +1,7 @@
 
 import math
 import random
-import cv2
+import cv2#map이용하는 패키지
 
 
 class City:# 한 도시의미
