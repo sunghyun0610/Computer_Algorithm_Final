@@ -4,7 +4,7 @@
 
 # Topic : 거리에 따른 스테픈 커리의 슛 성공률 변화를 매달 주기로 알아보고 회기식을 통해 오차를 최소화되게 다음달 예측.
 /*회귀식이란? Y=f(x)에서 한쪽의 변수에서 다른쪽의 변수 값을 예측하기 위한 방정식을 회귀식이라 하고 Y를 종속변수, X를 독립 변수라고 한다.*/
-![Alt text](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20160223_58%2Fstaticdb_14561999941970y7fJ_JPEG%2F4%25B9%25F8.JPG&type=sc960_832)
+![Alt text](https://github.com/sunghyun0610/Computer_Algorithm_Final/blob/main/%ED%9A%8C%EA%B7%80%EC%8B%9D%20%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%98%88.png?raw=true)
 ## List
 - **1.최적해(유전)알고리즘 원리 및 설명**
     - *1-1. P&Np(NP-hard)문제 소개*
