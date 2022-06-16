@@ -17,7 +17,7 @@
 #### - P 문제는 결정 문제들 중에서 쉽게 풀리는 것을 모아 놓은 집합이다. 어떤 결정 문제가 주어졌을 때, 다항식(Polynomial) 시간 이내에 그 문제의 답을 YES와 NO 중의 하나로 계산해낼 수 있는 알고리즘이 존재하는 문제이다.     
 
 #### -수업시간에 다루었던 **NP**(Non-deterministic Polynomial) 문제는 형식적으로는, 문제를 푸는 각 단계에서 여러가지의 가능성을 동시에 고려할 수 있는 비결정적 알고리즘(non-deterministic algorithm)으로 다항시간내에 문제를 해결할 수 있는 문제라고 정의한다. 즉,어떤 결정 문제의 답이 YES일 때, "그 문제의 답이 YES라는 것을 입증하는 힌트가 주어지면, 그 힌트를 사용해서 그 문제의 답이 정말로 YES라는 것을 다항식 시간 이내에 확인할 수 있는 문제가 바로 NP 문제에 해당된다."</br>
-![logo](https://ko.wikipedia.org/wiki/P-NP_%EB%AC%B8%EC%A0%9C)
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/4/4a/Complexity_classes.png)
 #### 사실 많은 컴퓨터공학자들은 절대로 P=NP일리가 없다고 믿고 있다. 왜냐하면, P=NP가 의미하는 바는, 만약 어떤 문제가 주어졌을 때, 그 문제의 답안을 쉽게 검산할 수 있다면, 그 문제 자체도 쉽게 풀 수 있다는, 너무나도 강력한 주장이기 때문이라고 수업시간에 배웠다.</br>
 
 
