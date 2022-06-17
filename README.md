@@ -365,5 +365,5 @@ if __name__ == '__main__':
 #### 클릭횟수에 따른 광고 노출 빈도 데이터 그래프와 회기식
 ![Alt text](https://github.com/sunghyun0610/Computer_Algorithm_Final/blob/main/%EA%B4%91%EA%B3%A0-%ED%81%B4%EB%A6%AD%20%EB%8D%B0%EC%9D%B4%ED%84%B0.png?raw=true)
 ![Alt text](https://github.com/sunghyun0610/Computer_Algorithm_Final/blob/main/%ED%9A%8C%EA%B7%80%EC%8B%9D.png?raw=true)
-
-# Topic : 거리에 따른 스테픈 커리의 슛 성공률 변화를 매달 주기로 알아보고 회기식을 통해 오차를 최소화되게 다음달 예측.
+#### 추가로 내가 관심있는 주제도 해보았다.
+### Topic2 : 거리에 따른 스테픈 커리의 슛 성공률 변화를 매달 주기로 알아보고 회기식을 통해 오차를 최소화되게 다음달 예측.
