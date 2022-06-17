@@ -367,3 +367,4 @@ if __name__ == '__main__':
 ![Alt text](https://github.com/sunghyun0610/Computer_Algorithm_Final/blob/main/%ED%9A%8C%EA%B7%80%EC%8B%9D.png?raw=true)
 #### 추가로 내가 관심있는 주제도 해보았다.
 ### Topic2 : 거리에 따른 스테픈 커리의 슛 성공률 변화를 매달 주기로 알아보고 회기식을 통해 오차를 최소화되게 다음달 예측.
+![Alt text](https://github.com/sunghyun0610/Computer_Algorithm_Final/blob/main/%EC%8A%A4%ED%85%8C%ED%94%88%20%EC%BB%A4%EB%A6%AC%20%ED%9A%8C%EA%B7%80%EC%8B%9D!!.png?raw=true)
