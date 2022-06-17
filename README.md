@@ -362,5 +362,6 @@ if __name__ == '__main__':
 # Topic : 거리에 따른 스테픈 커리의 슛 성공률 변화를 매달 주기로 알아보고 회기식을 통해 오차를 최소화되게 다음달 예측.
 /*회귀식이란? Y=f(x)에서 한쪽의 변수에서 다른쪽의 변수 값을 예측하기 위한 방정식을 회귀식이라 하고 Y를 종속변수, X를 독립 변수라고 한다.*/
 ![Alt text](https://github.com/sunghyun0610/Computer_Algorithm_Final/blob/main/%ED%9A%8C%EA%B7%80%EC%8B%9D%20%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%98%88.png?raw=true)
+#### 클릭횟수에 따른 광고 노출 빈도 데이터 그래프와 회기식
 ![Alt text](https://github.com/sunghyun0610/Computer_Algorithm_Final/blob/main/%EA%B4%91%EA%B3%A0-%ED%81%B4%EB%A6%AD%20%EB%8D%B0%EC%9D%B4%ED%84%B0.png?raw=true)
 ![Alt text](https://github.com/sunghyun0610/Computer_Algorithm_Final/blob/main/%ED%9A%8C%EA%B7%80%EC%8B%9D.png?raw=true)
